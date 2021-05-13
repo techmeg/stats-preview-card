@@ -32,8 +32,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/techmeg/stats-preview-card)
-- Live Site URL: [Add live site URL here]( https://techmeg.github.io/stats-preview-card/)
+- Solution URL: (https://github.com/techmeg/stats-preview-card)
+- Live Site URL: (https://techmeg.github.io/stats-preview-card/)
 
 ## My process
 
